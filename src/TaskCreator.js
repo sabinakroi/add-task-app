@@ -25,7 +25,7 @@ const Title = styled(Typography)`
 
 const TextInput = styled(TextField)`
   background-color: #1d6892;
-  border-radius: 4px;
+  border-radius: 3px;
 `;
 
 const Button = styled(MuiButton)`
