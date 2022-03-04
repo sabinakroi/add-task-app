@@ -31,7 +31,7 @@ const TextInput = styled(TextField)`
 const Button = styled(MuiButton)`
   background-color: #1d6892;
   &:disabled {
-    background: lightgray;
+    background: gray;
   }
 `;
 
